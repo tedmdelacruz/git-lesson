@@ -1,0 +1,17 @@
+{
+  "name": "git-lesson",
+  "homepage": "https://github.com/tedmdelacruz/git-lesson",
+  "authors": [
+    "Ted Mathew dela Cruz <tedmdelacruz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
